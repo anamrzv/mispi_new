@@ -23,4 +23,8 @@ public class K implements B {
     public int cc() {
         return 13;
     }
+
+    public long ac() {
+        return 111;
+    }
 }

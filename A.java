@@ -31,4 +31,8 @@ public class A implements H, B {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
