@@ -12,4 +12,8 @@ public class B extends null
     public Object pp() {
         return this;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

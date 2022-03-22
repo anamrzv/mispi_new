@@ -12,4 +12,8 @@ public class H extends null
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

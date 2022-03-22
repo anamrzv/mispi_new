@@ -51,4 +51,8 @@ public class K extends null implements B {
     public int af() {
         return -1;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

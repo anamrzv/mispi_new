@@ -64,4 +64,8 @@ public class A extends null implements H,B
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
