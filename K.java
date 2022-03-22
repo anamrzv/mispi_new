@@ -19,4 +19,8 @@ public class K implements B {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public int cc() {
+        return 13;
+    }
 }
