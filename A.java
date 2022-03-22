@@ -17,7 +17,7 @@ public class A implements H, B {
     }
 
     public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+        return new int[] { 0, 1, 2, 3, 4 };
     }
 
     public void bb() {
@@ -26,9 +26,5 @@ public class A implements H, B {
 
     public void aa() {
         System.out.println("void aa");
-    }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
     }
 }
