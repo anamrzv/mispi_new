@@ -48,4 +48,8 @@ public class A extends null implements H,B
     public long ac() {
         return 111;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

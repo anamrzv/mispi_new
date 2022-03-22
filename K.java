@@ -35,4 +35,8 @@ public class K extends null implements B {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
