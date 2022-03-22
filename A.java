@@ -52,4 +52,12 @@ public class A extends null implements H,B
     public byte oo() {
         return 1;
     }
+
+    public double ad() {
+        return 11;
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
 }

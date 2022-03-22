@@ -39,4 +39,12 @@ public class K extends null implements B {
     public double ee() {
         return 0.000001;
     }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public String kk() {
+        return "Yes";
+    }
 }
