@@ -8,4 +8,8 @@ public class B extends null
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public Object pp() {
+        return this;
+    }
 }

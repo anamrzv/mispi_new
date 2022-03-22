@@ -60,4 +60,8 @@ public class A extends null implements H,B
     public double ee() {
         return 0.000001;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

@@ -47,4 +47,8 @@ public class K extends null implements B {
     public String kk() {
         return "Yes";
     }
+
+    public int af() {
+        return -1;
+    }
 }
