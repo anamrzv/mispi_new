@@ -27,12 +27,4 @@ public class A implements H, B {
     public void aa() {
         System.out.println("void aa");
     }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
-
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
-    }
 }
