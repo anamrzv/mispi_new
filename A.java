@@ -1,4 +1,5 @@
-public class A implements H, B {
+public class A extends null implements H,B
+{
 
     private int i = 1;
 
@@ -30,5 +31,25 @@ public class A implements H, B {
 
     public int hh() {
         return new java.util.Random(10).nextInt(10);
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public byte oo() {
+        return 1;
     }
 }
