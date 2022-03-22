@@ -27,4 +27,8 @@ public class K implements B {
     public long ac() {
         return 111;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
