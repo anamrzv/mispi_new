@@ -1,4 +1,5 @@
-public interface B {
+public class B extends null
+{
 
     void bb();
 

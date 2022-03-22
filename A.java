@@ -1,4 +1,5 @@
-public class A implements H, B {
+public class A extends null implements H,B
+{
 
     private int i = 1;
 
@@ -38,5 +39,13 @@ public class A implements H, B {
 
     public String kk() {
         return "Yes";
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public long ac() {
+        return 111;
     }
 }

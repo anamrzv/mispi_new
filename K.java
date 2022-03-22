@@ -1,4 +1,4 @@
-public class K implements B {
+public class K extends null implements B {
 
     private String i = "test";
 
@@ -20,15 +20,19 @@ public class K implements B {
         System.out.println("Hello world!");
     }
 
+    public long ac() {
+        return 333;
+    }
+
     public int cc() {
         return 13;
     }
 
-    public long ac() {
-        return 111;
-    }
-
     public Object pp() {
         return this;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }
